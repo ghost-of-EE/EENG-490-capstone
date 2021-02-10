@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T20:35:01.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="1r-aS8zCBDNM5B8XclKz" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T20:54:27.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="b8NHLUjyBb6TU8AYtNwR" version="14.2.9" type="github">
   <diagram id="iUi8g271cqGeeiUrCEH1" name="Page-1">
-    <mxGraphModel dx="1099" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
         <mxCell id="WtF5FToV0hVjw0mfeZgF-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6600CC;" parent="1" vertex="1">
           <mxGeometry x="70" y="610" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uT0wznO6GQe00IirvVxP-1" value="Motors&lt;br&gt;&lt;br&gt;PWM controller" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00FF00;" parent="1" vertex="1">
+        <mxCell id="uT0wznO6GQe00IirvVxP-1" value="Motors&lt;br&gt;&lt;br&gt;PWM controller&lt;br&gt;&lt;br&gt;H-bridge" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="405" y="500" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uT0wznO6GQe00IirvVxP-7" value="Rc Car" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
