@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T19:35:04.738Z" agent="5.0 (Windows)" etag="Yo1HDW0m4XVXZzrE8DFh" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T19:38:20.007Z" agent="5.0 (Windows)" etag="OUUKFNgSEciHbhQjEbXu" version="14.3.2" type="github">
   <diagram id="-YA3yd62reVqTtNAsAUj" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,32 +25,32 @@
         <mxCell id="r5wqugxTue3WBq0mL9UO-138" value="Jetson Nano" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="30" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r5wqugxTue3WBq0mL9UO-140" value="ESP32 Wi-Fi Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="170" width="60" height="60" as="geometry" />
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5wqugxTue3WBq0mL9UO-140" target="r5wqugxTue3WBq0mL9UO-147">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r5wqugxTue3WBq0mL9UO-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="r5wqugxTue3WBq0mL9UO-141" target="r5wqugxTue3WBq0mL9UO-140" edge="1">
+        <mxCell id="r5wqugxTue3WBq0mL9UO-140" value="ESP32 Wi-Fi Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r5wqugxTue3WBq0mL9UO-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="r5wqugxTue3WBq0mL9UO-141" target="r5wqugxTue3WBq0mL9UO-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5wqugxTue3WBq0mL9UO-141" value="Neo-6m GPS Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="170" width="70" height="60" as="geometry" />
+          <mxGeometry x="10" y="390" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="r5wqugxTue3WBq0mL9UO-145" target="r5wqugxTue3WBq0mL9UO-135">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5wqugxTue3WBq0mL9UO-145" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="80" width="110.83" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="BPFDO3i-XPcz9ROgihQN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5wqugxTue3WBq0mL9UO-147" target="BPFDO3i-XPcz9ROgihQN-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="388" />
-              <mxPoint x="250" y="230" />
-              <mxPoint x="695" y="230" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5wqugxTue3WBq0mL9UO-147" target="BPFDO3i-XPcz9ROgihQN-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5wqugxTue3WBq0mL9UO-147" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="360" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="r5wqugxTue3WBq0mL9UO-150" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="180" width="50" height="20" as="geometry" />
+          <mxGeometry x="80" y="390" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r5wqugxTue3WBq0mL9UO-152" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="90" width="40" height="20" as="geometry" />
@@ -65,31 +65,49 @@
           <mxGeometry x="300" y="330" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BPFDO3i-XPcz9ROgihQN-16" value="GPS data in from Wi-Fi Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="80" height="20" as="geometry" />
+          <mxGeometry x="295" y="380" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BPFDO3i-XPcz9ROgihQN-17" value="Store Data in File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="60" height="20" as="geometry" />
+          <mxGeometry x="305" y="430" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BPFDO3i-XPcz9ROgihQN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BPFDO3i-XPcz9ROgihQN-21" target="BPFDO3i-XPcz9ROgihQN-23">
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BPFDO3i-XPcz9ROgihQN-21" target="BPFDO3i-XPcz9ROgihQN-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BPFDO3i-XPcz9ROgihQN-21" value="Get GPS Data from File for each Access Point" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="130" height="60" as="geometry" />
+          <mxGeometry x="475" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BPFDO3i-XPcz9ROgihQN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BPFDO3i-XPcz9ROgihQN-22" target="BPFDO3i-XPcz9ROgihQN-23">
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BPFDO3i-XPcz9ROgihQN-22" target="BPFDO3i-XPcz9ROgihQN-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BPFDO3i-XPcz9ROgihQN-22" value="Get an average distance to each Access Point" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="250" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BPFDO3i-XPcz9ROgihQN-23" value="Triangulation on 2D grid" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="270" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BPFDO3i-XPcz9ROgihQN-20" value="Motor and Antenna Software Switching" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BPFDO3i-XPcz9ROgihQN-20" target="r5wqugxTue3WBq0mL9UO-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="BPFDO3i-XPcz9ROgihQN-20" target="r5wqugxTue3WBq0mL9UO-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="185" />
+              <mxPoint x="520" y="220" />
+              <mxPoint x="335" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-20" value="Motor Software Switching and Angle Measurement" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BPFDO3i-XPcz9ROgihQN-32" value="Motor Control" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290.63" y="60" width="99.58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-39" value="Sets Initial Angle of Motor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297.92" y="90" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BPFDO3i-XPcz9ROgihQN-40" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320.42" y="132.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
