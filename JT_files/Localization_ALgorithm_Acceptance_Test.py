@@ -68,7 +68,7 @@ zeta = -b+g
 # -b+d
 gamma = -b+d
 
-x_location = ((alpha/(2*zeta))-(beta/(2*gamma))) / (((a-c)/gamma)-((a-f)/zeta))
-y_location = (((a-c)*x_location)/gamma)+((beta)/(2*gamma))
+x_location = ((alpha/(2*zeta))-(beta/(2*gamma))) / (((a-c)/gamma)-((a-f)/zeta))  # x-coordinate of the intersection of three circles
+y_location = (((a-c)*x_location)/gamma)+((beta)/(2*gamma))  # y-coordinate of the intersection of three circles
 print(x_location)
 print(y_location)
